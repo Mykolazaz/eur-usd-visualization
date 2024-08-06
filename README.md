@@ -1,1 +1,1 @@
-# usd-eur-visualization
+# eur-usd-visualization
